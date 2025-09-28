@@ -15,6 +15,9 @@ El desarrollo se realiza utilizando **Git y GitHub** como herramientas de contro
 Se han aplicado buenas prácticas como:
 
 - Creación de ramas por funcionalidad (`feature/gestion-rutas`, `feature/validacion-direcciones`).
+- ## 🧮 Archivo utils.py
+- Este archivo contiene funciones auxiliares para el módulo de rutas. Actualmente incluye:
+  Simula el cálculo de distancia entre dos puntos. En futuras versiones se integrará con una API de mapas o coordenadas reales.
 - Uso de Pull Requests para revisión e integración de cambios.
 - Documentación de cada commit para mantener trazabilidad.
 
